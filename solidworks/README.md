@@ -1,25 +1,10 @@
-HackerBot
+HackerBot SolidWorks files
 =========
 
-We used all our experience to achieve a versatile, robust and accurate machine.
+Version 1.0 (Skull)
 
-When possible we have avoided to design custom parts for facilitating their availability and possible modification.
+Solidworks version 2013
 
-The project is very scalable. You can start with the basic frame and then add parts and upgrades later.
-
-The HackerBot is an opensource 3D Printer under CC-SA-BY license.
-
-Main Features
---------------
-
-*High Quality Aluminium Frame
-*Up to 4 heads (not just extruders)
-*Easy of Use: LCD display & SD Card
-*FDM materials: ABS, PLA, Nylon, HIPS
-*Versatile "hackable" hardware design
-*DIY Kit or Fully assembled version
-*OS Software: Linux, Mac, Windows
-*Manufactured in Italy
 
 Reporting bugs
 --------------

@@ -1,5 +1,6 @@
 HackerBot
 =========
+HackerBot is a 3D printer with multi-head: up to three FDM extruders and up two other tools like mini-drills, UV curing light, etc.
 
 We used all our experience to achieve a versatile, robust and accurate machine.
 
