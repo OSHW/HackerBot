@@ -11,27 +11,19 @@ The HackerBot is an open source 3D Printer under CC-SA-BY license.
 Main Features
 --------------
 
-*High Quality Aluminium Frame
-
-*Up to 4 heads (not just extruders)
-
-*Easy of Use: LCD display & SD Card
-
-*FDM materials: ABS, PLA, Nylon, HIPS
-
-*Versatile "hackable" hardware design
-
-*DIY Kit or Fully assembled version
-
-*OS Software: Linux, Mac, Windows
-
-*Manufactured in Italy
+* High Quality Aluminium Frame
+* Up to 4 heads (not just extruders)
+* Easy of Use: LCD display & SD Card
+* FDM materials: ABS, PLA, Nylon, HIPS
+* Versatile "hackable" hardware design
+* DIY Kit or Fully assembled version
+* OS Software: Linux, Mac, Windows
+* Manufactured in Italy
 
 
 Changelog
 -------------
 * v 1.1 (24/10/2013) dimensional fix and minor updates
-
 * v 1.0 (1/10/2013) first release
 
 
