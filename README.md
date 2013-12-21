@@ -9,7 +9,11 @@ We used good quality components and we designed it to be easily* modified
 
 The HackerBot is an open source 3D Printer under CC-SA-BY license.
 
-official documentation is at: http://oshw.it/wiki/index.php?title=HackerBot
+---
+
+official homepage: http://hackerbot.org
+
+documentation wiki: http://oshw.it/wiki/index.php?title=HackerBot
 
 
 Main Features
@@ -27,7 +31,7 @@ Main Features
 Changelog
 -------------
 * v 1.2b on edge branch
-* v 1.1 (24/10/2013) dimensional fix and minor updates
+* v 1.1 (24/10/2013) dimensional fix and minor updates 
 * v 1.0 (1/10/2013) first release
 
 
