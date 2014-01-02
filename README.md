@@ -1,28 +1,37 @@
 HackerBot
 =========
 
-HackerBot is a 3D printer with multi-head capability.
+HackerBot is a 3D printer with a 4 slots head
 
-It's very versatile, robust and accurate.
+You can use up to three extruders and extra tools
+
+We used good quality components and we designed it to be easily* modified
 
 The HackerBot is an open source 3D Printer under CC-SA-BY license.
+
+---
+
+official homepage: http://hackerbot.org
+
+documentation wiki: http://oshw.it/wiki/index.php?title=HackerBot
 
 
 Main Features
 --------------
 
-* High Quality Aluminium Frame
-* Up to 4 heads (not just extruders)
+* Head with 4 slots 
+* High Quality strong aluminium frame and parts
 * Easy of Use: LCD display & SD Card
-* FDM materials: ABS, PLA, Nylon, HIPS
-* Versatile "hackable" hardware design
-* DIY Kit or Fully assembled version
-* Free Software for Linux, Mac, Windows
+* FDM materials: ABS, PLA, Nylon
+* Support material for ABS: HIPS
+* Versatile and hackable hardware design
+* Run with open source software (Linux, Mac or Windows)
 
 
 Changelog
 -------------
-* v 1.1 (24/10/2013) dimensional fix and minor updates
+* v 1.2b on edge branch
+* v 1.1 (24/10/2013) dimensional fix and minor updates 
 * v 1.0 (1/10/2013) first release
 
 
