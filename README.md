@@ -5,7 +5,7 @@ HackerBot is a 3D printer with a 4 slots head
 
 You can use up to three extruders and extra tools
 
-We used good quality components and we designed it to be easily* modified
+We used quality components and has been designed to be easily* modified
 
 The HackerBot is an open source 3D Printer under CC-SA-BY license.
 
@@ -30,9 +30,9 @@ Main Features
 
 Changelog
 -------------
-* v 1.2b on edge branch
-* v 1.1 (24/10/2013) dimensional fix and minor updates 
-* v 1.0 (1/10/2013) first release
+* v 1.3 (02/Jan/2014) Major update. Hackerbot is now bigger.
+* v 1.1 (24/Oct/2013) dimensional fix and minor updates 
+* v 1.0 (1/Oct/2013) first release
 
 
 Reporting bugs
