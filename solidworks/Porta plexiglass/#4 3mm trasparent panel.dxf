@@ -25,7 +25,7 @@ Vectorealism
   9
 $LASTSAVEDBY
   1
-cnc
+SB
   9
 $INSBASE
  10
@@ -37,17 +37,17 @@ $INSBASE
   9
 $EXTMIN
  10
--94.00000000000011
+-167.8750510952559
  20
--250.8227058828488
+-3.5
  30
 0.0
   9
 $EXTMAX
  10
-805.0
+1394.999839135933
  20
-453.5
+731.3034569929696
  30
 0.0
   9
@@ -497,7 +497,7 @@ $SKPOLY
   9
 $TDCREATE
  40
-2456633.008447141
+2456633.050113808
   9
 $TDUCREATE
  40
@@ -505,19 +505,19 @@ $TDUCREATE
   9
 $TDUPDATE
  40
-2456635.895308229
+2456781.936088750
   9
 $TDUUPDATE
  40
-2456635.853641563
+2456781.852755417
   9
 $TDINDWG
  40
-0.0207898148
+0.0240112153
   9
 $TDUSRTIMER
  40
-0.0207896991
+0.0240110648
   9
 $USRTIMER
  70
@@ -557,7 +557,7 @@ $SPLINESEGS
   9
 $HANDSEED
   5
-6BA
+70D
   9
 $SURFTAB1
  70
@@ -941,7 +941,7 @@ $FINGERPRINTGUID
   9
 $VERSIONGUID
   2
-{A8FD4EC0-6991-4CB4-B670-F79E5A38D753}
+{27D6E12B-42DA-49C1-887F-1F98D002A05F}
   9
 $EXTNAMES
 290
@@ -1251,7 +1251,7 @@ ObjectDBX Classes
  90
      1152
  91
-        2
+        3
 280
      0
 281
@@ -1379,7 +1379,7 @@ ObjectDBX Classes
  90
         0
  91
-        2
+        1
 280
      0
 281
@@ -1441,9 +1441,9 @@ AcDbViewportTableRecord
  21
 1.0
  12
-552.9598593766158
+209.489449831101
  22
-291.0935497180238
+278.4793453802581
  13
 0.0
  23
@@ -1469,9 +1469,9 @@ AcDbViewportTableRecord
  37
 0.0
  40
-1070.225257668388
+222.1613977491943
  41
-1.576203208556149
+2.329683698296837
  42
 50.0
  43
@@ -1725,7 +1725,7 @@ Phantom ______  __  __  ______  __  __  ______
  40
 12.7
  49
-6.349999999999998
+6.349999999999997
  74
      0
  49
@@ -1771,7 +1771,7 @@ Center ____ _ ____ _ ____ _ ____ _ ____ _ ____
  40
 10.16
  49
-6.349999999999998
+6.349999999999997
  74
      0
  49
@@ -2211,7 +2211,7 @@ VIEW
 100
 AcDbSymbolTable
  70
-     0
+     1
   0
 ENDTAB
   0
@@ -2611,7 +2611,7 @@ BLOCK_RECORD
 100
 AcDbSymbolTable
  70
-    10
+     9
   0
 BLOCK_RECORD
   5
@@ -2821,9 +2821,7 @@ Plexiglass top rear side v2 double
 102
 {BLKREFS
 331
-691
-331
-6AE
+6E9
 102
 }
  70
@@ -2849,9 +2847,7 @@ Plexiglass top rear side v2
 102
 {BLKREFS
 331
-6A5
-331
-6AF
+6D1
 102
 }
  70
@@ -5339,7 +5335,7 @@ AcDbCircle
  30
 0.0
  40
-2.000000000000055
+2.000000000000054
   0
 CIRCLE
   5
@@ -6593,7 +6589,7 @@ Plexiglass top rear side v2 double
   0
 CIRCLE
   5
-67D
+6D3
 330
 639
 100
@@ -6603,7 +6599,33 @@ AcDbEntity
   6
 Continuous
  62
-   170
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-95.0
+ 20
+47.0
+ 30
+0.0
+ 40
+6.000000000000013
+  0
+CIRCLE
+  5
+6D4
+330
+639
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
 370
     15
 100
@@ -6619,7 +6641,7 @@ AcDbCircle
   0
 CIRCLE
   5
-67E
+6D5
 330
 639
 100
@@ -6629,7 +6651,7 @@ AcDbEntity
   6
 Continuous
  62
-   170
+     7
 370
     15
 100
@@ -6641,11 +6663,11 @@ AcDbCircle
  30
 0.0
  40
-7.800000000000013
+7.800000000000012
   0
 CIRCLE
   5
-67F
+6D6
 330
 639
 100
@@ -6655,7 +6677,7 @@ AcDbEntity
   6
 Continuous
  62
-   170
+     7
 370
     15
 100
@@ -6671,7 +6693,7 @@ AcDbCircle
   0
 CIRCLE
   5
-680
+6D7
 330
 639
 100
@@ -6681,7 +6703,7 @@ AcDbEntity
   6
 Continuous
  62
-   170
+     7
 370
     15
 100
@@ -6697,7 +6719,7 @@ AcDbCircle
   0
 CIRCLE
   5
-681
+6D8
 330
 639
 100
@@ -6707,7 +6729,7 @@ AcDbEntity
   6
 Continuous
  62
-   170
+     7
 370
     15
 100
@@ -6719,11 +6741,11 @@ AcDbCircle
  30
 0.0
  40
-7.800000000000013
+7.800000000000012
   0
 CIRCLE
   5
-682
+6D9
 330
 639
 100
@@ -6733,7 +6755,7 @@ AcDbEntity
   6
 Continuous
  62
-   170
+     7
 370
     15
 100
@@ -6745,11 +6767,11 @@ AcDbCircle
  30
 0.0
  40
-7.799999999999953
+7.799999999999954
   0
 CIRCLE
   5
-683
+6DA
 330
 639
 100
@@ -6759,7 +6781,7 @@ AcDbEntity
   6
 Continuous
  62
-   170
+     7
 370
     15
 100
@@ -6771,11 +6793,11 @@ AcDbCircle
  30
 0.0
  40
-2.000000000000055
+2.000000000000056
   0
 CIRCLE
   5
-684
+6DB
 330
 639
 100
@@ -6785,7 +6807,7 @@ AcDbEntity
   6
 Continuous
  62
-   170
+     7
 370
     15
 100
@@ -6797,11 +6819,11 @@ AcDbCircle
  30
 0.0
  40
-2.000000000000055
+2.000000000000056
   0
 CIRCLE
   5
-685
+6DC
 330
 639
 100
@@ -6811,7 +6833,7 @@ AcDbEntity
   6
 Continuous
  62
-   170
+     7
 370
     15
 100
@@ -6823,11 +6845,11 @@ AcDbCircle
  30
 0.0
  40
-7.799999999999953
+7.799999999999954
   0
 CIRCLE
   5
-686
+6DD
 330
 639
 100
@@ -6837,7 +6859,7 @@ AcDbEntity
   6
 Continuous
  62
-   170
+     7
 370
     15
 100
@@ -6853,7 +6875,7 @@ AcDbCircle
   0
 CIRCLE
   5
-687
+6DE
 330
 639
 100
@@ -6863,7 +6885,7 @@ AcDbEntity
   6
 Continuous
  62
-   170
+     7
 370
     15
 100
@@ -6879,7 +6901,7 @@ AcDbCircle
   0
 CIRCLE
   5
-688
+6DF
 330
 639
 100
@@ -6889,7 +6911,7 @@ AcDbEntity
   6
 Continuous
  62
-   170
+     7
 370
     15
 100
@@ -6901,11 +6923,11 @@ AcDbCircle
  30
 0.0
  40
-7.799999999999953
+7.799999999999954
   0
 CIRCLE
   5
-689
+6E0
 330
 639
 100
@@ -6915,7 +6937,7 @@ AcDbEntity
   6
 Continuous
  62
-   170
+     7
 370
     15
 100
@@ -6931,7 +6953,7 @@ AcDbCircle
   0
 CIRCLE
   5
-68A
+6E1
 330
 639
 100
@@ -6941,7 +6963,7 @@ AcDbEntity
   6
 Continuous
  62
-   170
+     7
 370
     15
 100
@@ -6957,7 +6979,7 @@ AcDbCircle
   0
 CIRCLE
   5
-68B
+6E2
 330
 639
 100
@@ -6967,7 +6989,7 @@ AcDbEntity
   6
 Continuous
  62
-   170
+     7
 370
     15
 100
@@ -6983,7 +7005,7 @@ AcDbCircle
   0
 CIRCLE
   5
-68C
+6E3
 330
 639
 100
@@ -6993,7 +7015,7 @@ AcDbEntity
   6
 Continuous
  62
-   170
+     7
 370
     15
 100
@@ -7007,9 +7029,9 @@ AcDbCircle
  40
 7.800000000000068
   0
-LINE
+CIRCLE
   5
-68D
+6E4
 330
 639
 100
@@ -7019,7 +7041,33 @@ AcDbEntity
   6
 Continuous
  62
-   170
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-354.0
+ 20
+47.0
+ 30
+0.0
+ 40
+6.000000000000056
+  0
+LINE
+  5
+6E5
+330
+639
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
 370
     15
 100
@@ -7039,7 +7087,7 @@ AcDbLine
   0
 LINE
   5
-68E
+6E6
 330
 639
 100
@@ -7049,7 +7097,7 @@ AcDbEntity
   6
 Continuous
  62
-   170
+     7
 370
     15
 100
@@ -7069,7 +7117,7 @@ AcDbLine
   0
 LINE
   5
-68F
+6E7
 330
 639
 100
@@ -7079,7 +7127,7 @@ AcDbEntity
   6
 Continuous
  62
-   170
+     7
 370
     15
 100
@@ -7099,7 +7147,7 @@ AcDbLine
   0
 LINE
   5
-690
+6E8
 330
 639
 100
@@ -7109,7 +7157,7 @@ AcDbEntity
   6
 Continuous
  62
-   170
+     7
 370
     15
 100
@@ -7171,7 +7219,7 @@ Plexiglass top rear side v2
   0
 CIRCLE
   5
-693
+6BF
 330
 692
 100
@@ -7181,13 +7229,65 @@ AcDbEntity
   6
 Continuous
  62
-   170
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-354.0
+ 20
+47.0
+ 30
+0.0
+ 40
+6.000000000000056
+  0
+CIRCLE
+  5
+6C0
+330
+692
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
 370
     15
 100
 AcDbCircle
  10
 -112.25
+ 20
+9.0
+ 30
+0.0
+ 40
+2.0
+  0
+CIRCLE
+  5
+6C1
+330
+692
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-336.75
  20
 85.0
  30
@@ -7197,7 +7297,7 @@ AcDbCircle
   0
 CIRCLE
   5
-694
+6C2
 330
 692
 100
@@ -7207,137 +7307,7 @@ AcDbEntity
   6
 Continuous
  62
-   170
-370
-    15
-100
-AcDbCircle
- 10
--336.75
- 20
-9.0
- 30
-0.0
- 40
-1.999999999999943
-  0
-CIRCLE
-  5
-695
-330
-692
-100
-AcDbEntity
-  8
-0
-  6
-Continuous
- 62
-   170
-370
-    15
-100
-AcDbCircle
- 10
--324.0
- 20
-67.0
- 30
-0.0
- 40
-7.800000000000013
-  0
-CIRCLE
-  5
-696
-330
-692
-100
-AcDbEntity
-  8
-0
-  6
-Continuous
- 62
-   170
-370
-    15
-100
-AcDbCircle
- 10
--324.0
- 20
-27.0
- 30
-0.0
- 40
-7.799999999999953
-  0
-CIRCLE
-  5
-697
-330
-692
-100
-AcDbEntity
-  8
-0
-  6
-Continuous
- 62
-   170
-370
-    15
-100
-AcDbCircle
- 10
--440.0
- 20
-47.0
- 30
-0.0
- 40
-2.000000000000055
-  0
-CIRCLE
-  5
-698
-330
-692
-100
-AcDbEntity
-  8
-0
-  6
-Continuous
- 62
-   170
-370
-    15
-100
-AcDbCircle
- 10
--224.5
- 20
-85.0
- 30
-0.0
- 40
-2.000000000000055
-  0
-CIRCLE
-  5
-699
-330
-692
-100
-AcDbEntity
-  8
-0
-  6
-Continuous
- 62
-   170
+     7
 370
     15
 100
@@ -7345,15 +7315,15 @@ AcDbCircle
  10
 -384.0
  20
-27.0
+67.0
  30
 0.0
  40
-7.799999999999953
+7.799999999999954
   0
 CIRCLE
   5
-69A
+6C3
 330
 692
 100
@@ -7363,7 +7333,33 @@ AcDbEntity
   6
 Continuous
  62
-   170
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-224.5
+ 20
+9.0
+ 30
+0.0
+ 40
+2.0
+  0
+CIRCLE
+  5
+6C4
+330
+692
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
 370
     15
 100
@@ -7379,7 +7375,7 @@ AcDbCircle
   0
 CIRCLE
   5
-69B
+6C5
 330
 692
 100
@@ -7389,33 +7385,7 @@ AcDbEntity
   6
 Continuous
  62
-   170
-370
-    15
-100
-AcDbCircle
- 10
--224.5
- 20
-9.0
- 30
-0.0
- 40
-2.0
-  0
-CIRCLE
-  5
-69C
-330
-692
-100
-AcDbEntity
-  8
-0
-  6
-Continuous
- 62
-   170
+     7
 370
     15
 100
@@ -7423,15 +7393,15 @@ AcDbCircle
  10
 -384.0
  20
-67.0
+27.0
  30
 0.0
  40
-7.799999999999953
+7.799999999999954
   0
 CIRCLE
   5
-69D
+6C6
 330
 692
 100
@@ -7441,7 +7411,111 @@ AcDbEntity
   6
 Continuous
  62
-   170
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-224.5
+ 20
+85.0
+ 30
+0.0
+ 40
+2.000000000000056
+  0
+CIRCLE
+  5
+6C7
+330
+692
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-440.0
+ 20
+47.0
+ 30
+0.0
+ 40
+2.000000000000056
+  0
+CIRCLE
+  5
+6C8
+330
+692
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-324.0
+ 20
+27.0
+ 30
+0.0
+ 40
+7.799999999999954
+  0
+CIRCLE
+  5
+6C9
+330
+692
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
+370
+    15
+100
+AcDbCircle
+ 10
+-324.0
+ 20
+67.0
+ 30
+0.0
+ 40
+7.800000000000012
+  0
+CIRCLE
+  5
+6CA
+330
+692
+100
+AcDbEntity
+  8
+0
+  6
+Continuous
+ 62
+     7
 370
     15
 100
@@ -7449,15 +7523,15 @@ AcDbCircle
  10
 -336.75
  20
-85.0
+9.0
  30
 0.0
  40
-2.0
+1.999999999999943
   0
 CIRCLE
   5
-69E
+6CB
 330
 692
 100
@@ -7467,7 +7541,7 @@ AcDbEntity
   6
 Continuous
  62
-   170
+     7
 370
     15
 100
@@ -7475,7 +7549,7 @@ AcDbCircle
  10
 -112.25
  20
-9.0
+85.0
  30
 0.0
  40
@@ -7483,7 +7557,7 @@ AcDbCircle
   0
 LINE
   5
-69F
+6CC
 330
 692
 100
@@ -7493,7 +7567,7 @@ AcDbEntity
   6
 Continuous
  62
-   170
+     7
 370
     15
 100
@@ -7513,7 +7587,7 @@ AcDbLine
   0
 LINE
   5
-6A0
+6CD
 330
 692
 100
@@ -7523,7 +7597,7 @@ AcDbEntity
   6
 Continuous
  62
-   170
+     7
 370
     15
 100
@@ -7543,7 +7617,7 @@ AcDbLine
   0
 LINE
   5
-6A1
+6CE
 330
 692
 100
@@ -7553,7 +7627,7 @@ AcDbEntity
   6
 Continuous
  62
-   170
+     7
 370
     15
 100
@@ -7573,7 +7647,7 @@ AcDbLine
   0
 LINE
   5
-6A2
+6CF
 330
 692
 100
@@ -7583,7 +7657,7 @@ AcDbEntity
   6
 Continuous
  62
-   170
+     7
 370
     15
 100
@@ -7709,7 +7783,7 @@ AcDbBlockReference
   2
 Plexiglass door
  10
-587.9876920661831
+587.987692066183
  20
 226.1661185273838
  30
@@ -7717,31 +7791,7 @@ Plexiglass door
   0
 INSERT
   5
-691
-330
-1F
-100
-AcDbEntity
-  8
-TAGLIO - CUT
-370
-     0
-100
-AcDbBlockReference
-  2
-Plexiglass top rear side v2 double
- 10
-376.8130408277952
- 20
-449.9467766886628
- 30
-0.0
- 50
-90.0
-  0
-INSERT
-  5
-6A5
+6D1
 330
 1F
 100
@@ -7755,17 +7805,17 @@ AcDbBlockReference
   2
 Plexiglass top rear side v2
  10
-282.0283700077844
+0.1116856714616003
  20
-449.9884115095023
+0.0677248054321353
  30
 0.0
  50
-90.0
+270.0
   0
 INSERT
   5
-6AE
+6E9
 330
 1F
 100
@@ -7779,37 +7829,13 @@ AcDbBlockReference
   2
 Plexiglass top rear side v2 double
  10
-188.0117997072293
+95.16029137177975
  20
-448.998169790289
+-0.0375540024870134
  30
 0.0
  50
-90.0
-  0
-INSERT
-  5
-6AF
-330
-1F
-100
-AcDbEntity
-  8
-TAGLIO - CUT
-370
-     0
-100
-AcDbBlockReference
-  2
-Plexiglass top rear side v2
- 10
-94.00000097606925
- 20
-449.0000002964784
- 30
-0.0
- 50
-90.0
+270.0
   0
 ENDSEC
   0
@@ -7885,11 +7911,15 @@ EF
   3
 ACDB_RECOMPOSE_DATA
 350
-6B1
+6FC
   3
 AcDbVariableDictionary
 350
 5E
+  3
+AcDsDecomposeData
+350
+702
   0
 DICTIONARY
   5
@@ -8403,7 +8433,7 @@ X-Ray
   0
 XRECORD
   5
-6B1
+6FC
 102
 {ACAD_REACTORS
 330
@@ -8479,6 +8509,34 @@ LAYERNOTIFY
   0
 DICTIONARY
   5
+702
+102
+{ACAD_REACTORS
+330
+C
+102
+}
+330
+C
+100
+AcDbDictionary
+281
+     1
+  3
+AcDsRecords
+350
+704
+  3
+AcDsSchemas
+350
+703
+1001
+ACAD
+1070
+     2
+  0
+DICTIONARY
+  5
 4D4
 102
 {ACAD_REACTORS
@@ -8551,7 +8609,7 @@ ACDBDETAILVIEWSTYLE
 102
 {ACAD_XDICTIONARY
 360
-6B4
+707
 102
 }
 102
@@ -9935,7 +9993,7 @@ ACDBSECTIONVIEWSTYLE
 102
 {ACAD_XDICTIONARY
 360
-6B2
+705
 102
 }
 102
@@ -10053,7 +10111,7 @@ ANSI31
  40
 -0.2617993877991494
  40
-1.832595714594045
+1.832595714594044
   0
 TABLESTYLE
   5
@@ -10407,7 +10465,7 @@ VISUALSTYLE
 102
 {ACAD_XDICTIONARY
 360
-6B8
+70B
 102
 }
 102
@@ -10555,7 +10613,7 @@ VISUALSTYLE
 102
 {ACAD_XDICTIONARY
 360
-6B6
+709
 102
 }
 102
@@ -14287,7 +14345,59 @@ DictionaryVariables
   0
 DICTIONARY
   5
-6B4
+704
+102
+{ACAD_REACTORS
+330
+702
+102
+}
+330
+702
+100
+AcDbDictionary
+281
+     1
+  0
+DICTIONARY
+  5
+703
+102
+{ACAD_REACTORS
+330
+702
+102
+}
+330
+702
+100
+AcDbDictionary
+281
+     1
+  3
+8796087794000
+350
+6FD
+  3
+8796087794016
+350
+6FE
+  3
+8796087794032
+350
+6FF
+  3
+8796087794048
+350
+700
+  3
+8796087794064
+350
+701
+  0
+DICTIONARY
+  5
+707
 330
 21C
 100
@@ -14299,7 +14409,7 @@ AcDbDictionary
   3
 ACAD_XREC_ROUNDTRIP
 360
-6B5
+708
   0
 DICTIONARY
   5
@@ -14379,7 +14489,7 @@ REFLECTIONTILE
   0
 DICTIONARY
   5
-6B2
+705
 330
 21A
 100
@@ -14391,7 +14501,7 @@ AcDbDictionary
   3
 ACAD_XREC_ROUNDTRIP
 360
-6B3
+706
   0
 DICTIONARY
   5
@@ -14407,7 +14517,7 @@ AcDbDictionary
   3
 ACAD_ROUNDTRIP_2008_TABLESTYLE_CELLSTYLEMAP
 360
-6B0
+6FB
   0
 DICTIONARY
   5
@@ -14427,7 +14537,7 @@ ACAD_XREC_ROUNDTRIP
   0
 DICTIONARY
   5
-6B8
+70B
 330
 4CB
 100
@@ -14439,11 +14549,11 @@ AcDbDictionary
   3
 ACAD_XREC_ROUNDTRIP
 360
-6B9
+70C
   0
 DICTIONARY
   5
-6B6
+709
 330
 4CA
 100
@@ -14455,7 +14565,7 @@ AcDbDictionary
   3
 ACAD_XREC_ROUNDTRIP
 360
-6B7
+70A
   0
 DICTIONARY
   5
@@ -14827,15 +14937,191 @@ ACAD_XREC_ROUNDTRIP
   0
 XRECORD
   5
-6B5
+6FD
 102
 {ACAD_REACTORS
 330
-6B4
+703
 102
 }
 330
-6B4
+703
+100
+AcDbXrecord
+280
+     1
+  1
+AcDb_Thumbnail_Schema
+102
+{ATTRRECORD
+341
+6FE
+  2
+AcDbDs::TreatedAsObjectData
+280
+     1
+291
+     1
+102
+ATTRRECORD}
+102
+{ATTRRECORD
+341
+6FF
+  2
+AcDbDs::Legacy
+280
+     1
+291
+     1
+102
+ATTRRECORD}
+  2
+AcDbDs::ID
+280
+    10
+ 91
+        8
+102
+{ATTRRECORD
+341
+700
+  2
+AcDs:Indexable
+280
+     1
+291
+     1
+102
+ATTRRECORD}
+102
+{ATTRRECORD
+341
+701
+  2
+AcDbDs::HandleAttribute
+280
+     7
+282
+     1
+102
+ATTRRECORD}
+  2
+Thumbnail_Data
+280
+    15
+ 91
+        0
+  0
+XRECORD
+  5
+6FE
+102
+{ACAD_REACTORS
+330
+703
+102
+}
+330
+703
+100
+AcDbXrecord
+280
+     1
+  1
+AcDbDs::TreatedAsObjectDataSchema
+  2
+AcDbDs::TreatedAsObjectData
+280
+     1
+ 91
+        0
+  0
+XRECORD
+  5
+6FF
+102
+{ACAD_REACTORS
+330
+703
+102
+}
+330
+703
+100
+AcDbXrecord
+280
+     1
+  1
+AcDbDs::LegacySchema
+  2
+AcDbDs::Legacy
+280
+     1
+ 91
+        0
+  0
+XRECORD
+  5
+700
+102
+{ACAD_REACTORS
+330
+703
+102
+}
+330
+703
+100
+AcDbXrecord
+280
+     1
+  1
+AcDbDs::IndexedPropertySchema
+  2
+AcDs:Indexable
+280
+     1
+ 91
+        0
+  0
+XRECORD
+  5
+701
+102
+{ACAD_REACTORS
+330
+703
+102
+}
+330
+703
+100
+AcDbXrecord
+280
+     1
+  1
+AcDbDs::HandleAttributeSchema
+  2
+AcDbDs::HandleAttribute
+280
+     7
+ 91
+        1
+284
+     1
+  0
+XRECORD
+  5
+708
+102
+{ACAD_REACTORS
+330
+707
+102
+}
+330
+707
 100
 AcDbXrecord
 280
@@ -15267,15 +15553,15 @@ AcDbXrecord
   0
 XRECORD
   5
-6B3
+706
 102
 {ACAD_REACTORS
 330
-6B2
+705
 102
 }
 330
-6B2
+705
 100
 AcDbXrecord
 280
@@ -15291,7 +15577,7 @@ FLAGS
   0
 CELLSTYLEMAP
   5
-6B0
+6FB
 102
 {ACAD_REACTORS
 330
@@ -16325,15 +16611,15 @@ RTVSPost2010PropOp57
   0
 XRECORD
   5
-6B9
+70C
 102
 {ACAD_REACTORS
 330
-6B8
+70B
 102
 }
 330
-6B8
+70B
 100
 AcDbXrecord
 280
@@ -16593,15 +16879,15 @@ RTVSPost2010PropOp57
   0
 XRECORD
   5
-6B7
+70A
 102
 {ACAD_REACTORS
 330
-6B6
+709
 102
 }
 330
-6B6
+709
 100
 AcDbXrecord
 280
