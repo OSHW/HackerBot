@@ -24,15 +24,16 @@ G1 Z10 F500
 G1 X0 Y0
 
 G4 P3
-G1 X-17. Y8. 
+G1 X-12. Y8. 
 
 G99 G83 Z#<_DRILL_DEPTH> R3. Q2. F80.
 
-X-42. Y8.
-X-20. Y50.
-X-40. Y50.
-X-20. Y70.
-X-40. Y70.
+X-37. Y8.
+
+X-15. Y50.
+X-35. Y50.
+X-15. Y70.
+X-35. Y70.
 
 G80 (cancel motion mode)
 M5
