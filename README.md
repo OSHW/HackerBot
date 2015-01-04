@@ -1,50 +1,51 @@
 HackerBot
 =========
 
-HackerBot 3D printer is excellent choices for prototyping, education, home shops, small-run production, custom manufacturing, and light industrial jobs. 
+Hackerbot 3D printer
 
-Each HackerBot can be customized with a suite of [[HackerBot option|options]] and accessories to expand its utility. 
-Our commitment to '''modular design''' principles means the latest accessories can be fit to any printer, regardless of purchase date so your printer can grow with your interests.
+It's ideal for prototyping, education, workshops, custom manufacturing and home use.
 
-The Hackerbot project is born within the RepRap community
+Our point We have used common parts from RepRap community to extend the life and set you free to decide.
 
-Current version of the HackerBot is 1.3b (17/Jun/2014)
+Our commitment modular design principles means the latest accessories can be fit to any printer, regardless of build date.
+
+Our goal is to do a robust professional 3D printer.
+
+The Hackerbot project is born with OSHW.IT dev team.
+
+Assembly skill level: hardcore
+
+Current version of the HackerBot is 1.5 (2015)
 
 ''The HackerBot is an open source 3D Printer under CC-SA-BY license.''
 
 ---
 
-official homepage: http://hackerbot.org
+(under rework) official homepage: http://hackerbot.org
 
-documentation wiki: http://oshw.it/wiki/index.php?title=HackerBot
+documentation wiki: http://oshw.it
 
 
 Main Features
 --------------
 
-* Modular Head. Up to four tools *
+* Print area: 300x200x250mm
+* Modular Head. Dual extruder with second extruder interchangeable.
 * High quality aluminium frame and parts
-* Opensource hardware design: modular, simple, customizable
-* Easy of use: LCD display & SD Card
-* printable materials: ABS, PLA, HIPS, Nylon 
-* Run with open source software (Linux, Mac or Windows)
+* Easy of use: Big LCD display & SD Card
+* know printable materials: ABS, PLA, HIPS, Nylon, rubber*
+* Big stepper drivers
 
-WORK AREA:
-* Using an HeatBed: 200x200x250 mm
-* Using a 300x200 MK Heatbed: 300x200x250mm
-* Big plate (no heatbed): 300x300x250 mm ''(depends on extruder head configuration)''
-
-OUTER DIMENSION:
 * width: 510mm
 * height: 650mm
 * depth: 510mm
 * weight: about 25kg
 
-''*max three extruders when printing ABS, max two for PLA''
 
 Changelog
 -------------
-* v 1.3a (17/Jun/2014) New bed support, aluminum base plate
+* v.1.5  (2015)	Major rework: new profiles, head, Z axis motor mount, extruders and cover panels.
+* v 1.3a (17/Jun/2014) New bed support, aluminium base plate
 * v 1.3  (02/Jan/2014) Major update. Hackerbot is now bigger.
 * v 1.1  (24/Oct/2013) dimensional fix and minor updates 
 * v 1.0  (1/Oct/2013) first release
@@ -53,7 +54,7 @@ Changelog
 Reporting bugs
 --------------
 HackerBot's issue tracker can be found [on Github](https://github.com/OSHW/HackerBot/issues).
-
+Or Hackerbot issue/feature/bug tracker is on http://oshw.it
 
 Sending pull requests
 ---------------------
