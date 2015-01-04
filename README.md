@@ -1,13 +1,16 @@
 HackerBot
 =========
 
-HackerBot is a 3D printer with a 4 slots head
+HackerBot 3D printer is excellent choices for prototyping, education, home shops, small-run production, custom manufacturing, and light industrial jobs. 
 
-You can use up to three extruders and extra tools
+Each HackerBot can be customized with a suite of [[HackerBot option|options]] and accessories to expand its utility. 
+Our commitment to '''modular design''' principles means the latest accessories can be fit to any printer, regardless of purchase date so your printer can grow with your interests.
 
-We used quality components and has been designed to be easily* modified
+The Hackerbot project is born within the RepRap community
 
-The HackerBot is an open source 3D Printer under CC-SA-BY license.
+Current version of the HackerBot is 1.3b (17/Jun/2014)
+
+''The HackerBot is an open source 3D Printer under CC-SA-BY license.''
 
 ---
 
@@ -19,20 +22,32 @@ documentation wiki: http://oshw.it/wiki/index.php?title=HackerBot
 Main Features
 --------------
 
-* Head with 4 slots 
-* High Quality strong aluminium frame and parts
-* Easy of Use: LCD display & SD Card
-* FDM materials: ABS, PLA, Nylon
-* Support material for ABS: HIPS
-* Versatile and hackable hardware design
+* Modular Head. Up to four tools *
+* High quality aluminium frame and parts
+* Opensource hardware design: modular, simple, customizable
+* Easy of use: LCD display & SD Card
+* printable materials: ABS, PLA, HIPS, Nylon 
 * Run with open source software (Linux, Mac or Windows)
 
+WORK AREA:
+* Using an HeatBed: 200x200x250 mm
+* Using a 300x200 MK Heatbed: 300x200x250mm
+* Big plate (no heatbed): 300x300x250 mm ''(depends on extruder head configuration)''
+
+OUTER DIMENSION:
+* width: 510mm
+* height: 650mm
+* depth: 510mm
+* weight: about 25kg
+
+''*max three extruders when printing ABS, max two for PLA''
 
 Changelog
 -------------
-* v 1.3 (02/Jan/2014) Major update. Hackerbot is now bigger.
-* v 1.1 (24/Oct/2013) dimensional fix and minor updates 
-* v 1.0 (1/Oct/2013) first release
+* v 1.3a (17/Jun/2014) New bed support, aluminum base plate
+* v 1.3  (02/Jan/2014) Major update. Hackerbot is now bigger.
+* v 1.1  (24/Oct/2013) dimensional fix and minor updates 
+* v 1.0  (1/Oct/2013) first release
 
 
 Reporting bugs
