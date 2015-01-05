@@ -1,0 +1,67 @@
+*****************************************************************
+      SolidWorks Corporation - IGES Processor Status Report
+*****************************************************************
+=================================================================
+Informazioni generali
+=================================================================
+Invio I.D. del prodotto di sistema : Noname
+Ricezione dell'I.D. del prodotto di sistema: Noname
+Nome file                    : 2L01002.igs
+Invio del sistema               :  By UGS Corp.
+Versione preprocessore         : XPlus GENERIC/IGES 3.0
+Data creazione file           : 20141126.185711
+Data creazione modello          : 20141126.185711
+Unità                        : MM
+Scala spazio del modello            : 1
+Autore                       : Noname
+Organizzazione                 : Noname
+
+
+=================================================================
+Informazioni entità in elaborazione
+=================================================================
+AVVERTIMENTO: DE#   245, TIPO   144: Errore risolto usando curve rifilate 3D.
+AVVERTIMENTO: DE#   979, TIPO   144: Errore risolto usando curve rifilate 3D.
+
+
+=================================================================
+Analisi di precisione del file IGES:
+=================================================================
+  Numero prevalente di unità significative:               1
+  Numero più alto di unità significative:                     14
+  Numero media di unità significative:                 3.3218
+  Distanza massima dall'origine:                          1011.09
+  Distanza minima dall'origine:                                0
+  Numero effettivo di unità significative:                   14
+
+
+=================================================================
+Sintesi entità
+=================================================================
+-----------------------------------------------------------------
+Immetti nome                                         Conteggio convertito
+---- ----                                         ----- ---------
+100  Arc                                             69        69
+102  Composite curve                                 78        78
+110  Line                                           110       110
+120  Surface of revolution                           19        19
+122  Tabulated cylinder                              13        13
+124  Transformation matrix                           69        69
+126  Rational B-spline curve                        160       160
+142  Curve on a parametric surface                   39        39
+144  Trimmed parametric surface                      32        32
+_________________________________________________________________
+
+
+=================================================================
+Sintesi dei risultati
+=================================================================
+Tipo di funzione SolidWorks                Conteggio
+-----------------------                -----
+Funzioni solide                       1
+Funzioni di superficie                     0
+Funzioni di curva/schizzo                0
+--------------------------------------------
+Inizio: mercoledì, novembre 26, 2014 18:55:50
+Fine: mercoledì, novembre 26, 2014 18:55:51
+Tempo di elaborazione: 0 days, 00 hours, 00 mins, 01 secs
