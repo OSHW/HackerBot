@@ -3,7 +3,7 @@ HackerBot
 
 Hackerbot 3D printer v2.0
 
-Hackerbot printer is based on Ultimaker XY design and on RepRap electronics and parts.
+Hackerbot printer is based on Ultimaker XY design and on RepRap.
 
 Current version of the HackerBot is 2.0 (22/Jan/2015)
 
