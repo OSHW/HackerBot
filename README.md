@@ -4,14 +4,15 @@ HackerBot
 Hackerbot 3D printer is based on Ultimaker XY core design
 
 It was build using CNC aluminium parts, quality chromed shafts and bushings, a reliable extruder and E3D hotends for ultimate performance.
+Enclosure is made in 5mm Polycarbonate and PMMA
 
-Hackerbot has been build to last a lifetime.
+Hackerbot has been build to last a lifetime. 
 
-We also added a Raspberry Pi for WiFi and Ethernet connection (Octoprint) and as optional big stepper motor for smooth, quiet and reliable motion.
+We also added a Raspberry Pi for WiFi and Ethernet connection (Octoprint) and as optional big stepper motor drivers for smooth, quiet and reliable motion.
 
 We designed it observing, when it was possible, the standards used in RepRap community so you will find easy to change some parts with others (ex. hotends, extruders, etc.)
 
-Current version of the HackerBot is 2.1 (20-Dec-2015)
+Current version of the HackerBot is 2.2 (26-Jan-2016)
 
 ''The HackerBot is an open source 3D Printer under CC-SA-BY license.''
 
@@ -20,20 +21,20 @@ Main Features
 
 * Print area: 300x200x200mm (with Heatbed)
 * Modular Head. Dual extruder with second extruder interchangeable.
-* High quality aluminium frame and parts. Last a lifetime.
+* High quality aluminium frame and CNC parts. Last a lifetime.
 * Easy of use: Wifi (Octoprint) and/or big LCD display & SD Card
 * know printable materials: ABS, PLA, HIPS, Nylon, Polycarbonate
-* Optional: big stepper drivers for trouble free operation
 
 * width: 510mm
 * height: 650mm
 * depth: 510mm
-* weight: about 25kg
+* weight: about 26kg
 
 
 Changelog
 -------------
-* v 2.1  (20-Dec-2015)Removed a lot of 3D printed parts and replaced with CNC aluminum parts
+* v 2.2  (26-Jan-2016) New aluminum extruder (AluExtruder)
+* v 2.1  (20-Dec-2015) Removed a lot of 3D printed parts and replaced with CNC aluminum parts
 * v 2.0  Hackerbot V2 released. (spring 2015)
 * v 1.5  (pre 2.0)     Major rework: new profiles, head, Z axis motor mount, extruder and cover panels.
 * v 1.3a (17-Jun-2014) New bed support, aluminium base plate
@@ -44,6 +45,7 @@ Changelog
 ---
 
 Support forum: http://forum.oshw.it/
+Buy it from: http://opensourcehardware.it
 
 
 Reporting bugs
