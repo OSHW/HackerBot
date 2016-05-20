@@ -1,0 +1,53 @@
+%
+( DRILL PATTERN, OSHW 300x300 HEATBED FR4)
+( 13.04.206 Salvatore Balestrino)
+
+G17 G21 G40 G54 
+
+(VARS)
+#<_start_x> = 12.5            (pattern start X coordinate)
+#<_start_y> = 12.5            (pattern start Y coordinate)
+#<_start_from_row> = 0   (start from row number) 
+#<_end_row> = 120          (how many rows)
+#<_hole_spacing> = 2.5    (hole spacing)
+#<_columns> = 120          (how many columns)
+
+(MSG, VACUUM TABLE ON)
+G4 P5
+
+G0 X#<_start_x> Y[#<_start_y>+#<_start_from_row>*#<_hole_spacing>] 
+Z20
+
+
+
+o1001 sub   
+   o1002 repeat [#<_columns>]
+      G81 Z-2 R1 F1000
+      G91 (Incremental mode)
+      G0 X#<_hole_spacing>(move to next X position)
+      G90
+   o1002 endrepeat
+o1001 endsub
+
+o1000 sub
+   (drill a block)
+   o1100 repeat [#<_end_row>-#<_start_from_row>]
+      o1001 call
+      G91   (incremental)
+      G0 Y[#<_hole_spacing>] (move to the next Y row)
+      G90
+      G0 X#<_start_x>
+      G91
+   o1100 endrepeat
+   G90 (Absolute mode)
+o1000 endsub
+
+
+( MAIN PROGRAM)
+o1000 call
+
+   
+G90
+
+M2
+%
